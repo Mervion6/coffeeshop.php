@@ -1,0 +1,26 @@
+ <style>
+        body {
+            background: #f1e8d9; 
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            color: #7b3f00;
+        }
+        table {
+            width: 70%;
+            margin: 20px auto;
+            border-collapse: collapse;
+            background: #ffffff;
+        }
+        th, td {
+            border: 1px solid #7b3f00;
+            padding: 10px;
+            text-align: center;
+        }
+        th {
+            background: #d39d6a;
+            color: white;
+        }
+    </style>
